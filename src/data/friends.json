@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Emma Wilson",
+    "picture": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=250&auto=format&fit=crop&q=80",
+    "email": "emma.wilson@example.com",
+    "days_since_contact": 62,
+    "status": "overdue",
+    "tags": ["family", "mentor"],
+    "bio": "Former colleague, great mentor in product design. Always gives the sharpest career advice.",
+    "goal": 30,
+    "next_due_date": "2026-02-27"
+  },
+  {
+    "id": 2,
+    "name": "David Kim",
+    "picture": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=250&auto=format&fit=crop&q=80",
+    "email": "david.kim@example.com",
+    "days_since_contact": 18,
+    "status": "almost due",
+    "tags": ["work", "tech"],
+    "bio": "Co-founder buddy from college days. Working on distributed databases and loves bouldering.",
+    "goal": 20,
+    "next_due_date": "2026-04-05"
+  },
+  {
+    "id": 3,
+    "name": "Lisa Nakamura",
+    "picture": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=250&auto=format&fit=crop&q=80",
+    "email": "lisa.n@example.com",
+    "days_since_contact": 45,
+    "status": "overdue",
+    "tags": ["work", "design"],
+    "bio": "UX research director and coffee aficionado. We exchange sci-fi book recommendations every month.",
+    "goal": 21,
+    "next_due_date": "2026-03-12"
+  },
+  {
+    "id": 4,
+    "name": "James Wright",
+    "picture": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=250&auto=format&fit=crop&q=80",
+    "email": "jwright@example.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["hobby", "travel"],
+    "bio": "Childhood camping partner and landscape photographer. Planning our next trip to Patagonia.",
+    "goal": 14,
+    "next_due_date": "2026-04-12"
+  },
+  {
+    "id": 5,
+    "name": "Sarah Chen",
+    "picture": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=250&auto=format&fit=crop&q=80",
+    "email": "sarah.chen@example.com",
+    "days_since_contact": 4,
+    "status": "on-track",
+    "tags": ["college", "close friend"],
+    "bio": "Grad school roommate. Infectious sense of humor, currently building a robotics startup.",
+    "goal": 14,
+    "next_due_date": "2026-04-13"
+  },
+  {
+    "id": 6,
+    "name": "Marcus Johnson",
+    "picture": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=250&auto=format&fit=crop&q=80",
+    "email": "marcus.j@example.com",
+    "days_since_contact": 6,
+    "status": "on-track",
+    "tags": ["fitness", "college"],
+    "bio": "Marathon training buddy. Keeps each other accountable on weekend morning runs.",
+    "goal": 10,
+    "next_due_date": "2026-04-07"
+  },
+  {
+    "id": 7,
+    "name": "Aisha Patel",
+    "picture": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=250&auto=format&fit=crop&q=80",
+    "email": "aisha.patel@example.com",
+    "days_since_contact": 28,
+    "status": "almost due",
+    "tags": ["music", "close friend"],
+    "bio": "Indie musician and sound designer. We share vinyl records and attend live jazz nights.",
+    "goal": 30,
+    "next_due_date": "2026-04-05"
+  },
+  {
+    "id": 8,
+    "name": "Olivia Martinez",
+    "picture": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=250&auto=format&fit=crop&q=80",
+    "email": "olivia.m@example.com",
+    "days_since_contact": 55,
+    "status": "overdue",
+    "tags": ["high school", "close friend"],
+    "bio": "High school best friend. Living across three timezones now, but we pick right back up whenever we call.",
+    "goal": 28,
+    "next_due_date": "2026-03-01"
+  },
+  {
+    "id": 9,
+    "name": "Ryan O'Brien",
+    "picture": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=250&auto=format&fit=crop&q=80",
+    "email": "ryan.obrien@example.com",
+    "days_since_contact": 70,
+    "status": "overdue",
+    "tags": ["hobby", "cycling"],
+    "bio": "Gravel cycling fanatic and craft brewer. Always tinkering with bike gears or sour fermentation.",
+    "goal": 30,
+    "next_due_date": "2026-02-15"
+  },
+  {
+    "id": 10,
+    "name": "Tom Baker",
+    "picture": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=250&auto=format&fit=crop&q=80",
+    "email": "tom.baker@example.com",
+    "days_since_contact": 25,
+    "status": "almost due",
+    "tags": ["neighbor", "cooking"],
+    "bio": "Neighbor and culinary enthusiast. We test artisan sourdough and pasta recipes on Sunday evenings.",
+    "goal": 28,
+    "next_due_date": "2026-04-06"
+  }
+]
